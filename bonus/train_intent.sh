@@ -1,0 +1,1 @@
+python bonus/train_intent.py --data_dir "${1}" --test_file "${2}" --output_csv "${3}" 
